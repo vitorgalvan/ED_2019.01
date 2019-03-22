@@ -49,8 +49,8 @@ Inicie o repositório com usa foto legível. Ela vai aparecer na tela do mesmo t
 - Quanto tempo levou pra fazer a atividade
  - 3 Horas e ainda não esta totalmente completo
  
- ## 04 - Fractais 
- 
+## 04 - Fractais
+
 - O que você fez
     - 
 - Com quem e como você fez
@@ -60,4 +60,4 @@ Inicie o repositório com usa foto legível. Ela vai aparecer na tela do mesmo t
 - O que tem dificuldade ainda
     - 
 - Quanto tempo levou pra fazer a atividade
-    -
+ - 
