@@ -59,4 +59,4 @@ Inicie o repositório com usa foto legível. Ela vai aparecer na tela do mesmo t
 - O que tem dificuldade ainda
     - 
 - Quanto tempo levou pra fazer a atividade
- - 
+    -
