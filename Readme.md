@@ -52,12 +52,11 @@ Inicie o repositório com usa foto legível. Ela vai aparecer na tela do mesmo t
 ## 04 - Fractais
 
 - O que você fez
-    - 
+
 - Com quem e como você fez
-    - 
+
 - O que aprendeu e sabe fazer
-    - 
+
 - O que tem dificuldade ainda
-    - 
+  
 - Quanto tempo levou pra fazer a atividade
- - 
