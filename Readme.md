@@ -47,7 +47,7 @@ Inicie o repositório com usa foto legível. Ela vai aparecer na tela do mesmo t
 - O que tem dificuldade ainda
     - Ainda estou com dificuldade em relação a parada mas ainda estou tentando melhorar o codigo
 - Quanto tempo levou pra fazer a atividade
- - Terminado com a ajuda de um Colega de CC
+     - Terminado com a ajuda de um Colega de CC
  
 ## 04 - Fractais
 
