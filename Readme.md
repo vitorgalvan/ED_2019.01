@@ -47,16 +47,17 @@ Inicie o repositório com usa foto legível. Ela vai aparecer na tela do mesmo t
 - O que tem dificuldade ainda
     - Ainda estou com dificuldade em relação a parada mas ainda estou tentando melhorar o codigo
 - Quanto tempo levou pra fazer a atividade
- - 3 Horas e ainda não esta totalmente completo
+ - Terminado com a ajuda de um Colega de CC
  
 ## 04 - Fractais
 
 - O que você fez
-
+     - Apenas Arvore e Circulos
 - Com quem e como você fez
-
+      - Com auxilio da logica do professor e do video
 - O que aprendeu e sabe fazer
-
+   - usar angulos em recursividade
 - O que tem dificuldade ainda
-  
+   - usar angulos em recursividade!!!
 - Quanto tempo levou pra fazer a atividade
+      - 3 horas e não consegui concluir tudo....
