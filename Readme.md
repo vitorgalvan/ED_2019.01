@@ -35,7 +35,7 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
 - Quanto tempo levou pra fazer a atividade
  - Mais de 2 horas 
 
-## 03 - Labirinto
+## 03 - Labirinto(Bugs 29/04)
 
 - O que você fez
     - Quase todo o labirinto com alguns bugs ainda
