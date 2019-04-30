@@ -27,7 +27,7 @@ void embaralhar(pos vet[],int tam){
 
 }
 
-void mostrar(int nl,int nc,char lab[nc][nl]){
+void mostrar(int nl,int nc,char lab[nl][nc]){
    for(int i = 0; i < nl; i++){
         
         for(int j = 0; j < nc; j++){
@@ -58,11 +58,9 @@ bool achar_saida(int nl, int nc, char lab[nl][nc], int lout, int cout){
       if(lab[lout][cout] == caminho){
         return false;
             }
-        if((nl == lexit) && (nc == cexit)){
+        if((nl == lout) && (nc == cout)){
         return true;
     }
-        
-
 }
 
 int main(){
@@ -83,7 +81,7 @@ int main(){
      }
 
  }
-
+    mostrar(nl,nc,lab[nl][nc]);
 
     return 0;
 }
