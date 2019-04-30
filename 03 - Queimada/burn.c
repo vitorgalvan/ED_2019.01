@@ -26,17 +26,14 @@ void shuffle(int vet[], int size){
 }
 
 void show(int l, int c, char forest[l][c]){
-    
-	int li;
-	for(li = 0; li < li; l++){
-		
-		int c;
-		for(c = 0; c < c; c++){
-            printf("%c", forest[l][c]);
+
+	for(int li = 0; li < l; li++){
+		for(int ci = 0; ci < c; ci++){
+            printf("%c", forest[li][ci]);
         }
-        printf("\n");
+            printf("\n");
     }
-    getchar();
+  puts("");
 }
 
 int queima(int nl, int nc,char campo[nl][nc + 2], int l, int c){
@@ -57,6 +54,7 @@ int queima(int nl, int nc,char campo[nl][nc + 2], int l, int c){
    int v;
     for(v = 0; v < lados; v++){
         int i = viz[v];
+       
         quantidade += queima(nl, nc, campo, l + linhas[i], c + coluna[i]);
     }
    
@@ -70,23 +68,21 @@ int main(){
     
 	srand(time(NULL));
     
-	int l = 0;
+	int nl = 0;
     printf("Digite o numero de Linhas :\n");
-    scanf("%d", &l);
+    scanf("%d", &nl);
     
-     int c = 0;
+     int nc = 0;
     printf("Digite o numero de Colunas :\n");
-    scanf("%d",&c);
+    scanf("%d",&nc);
     
-	printf("Digites a % :\n");
+	printf("Digites a %%:\n");
     int taxa = 0;
     scanf("%d", &taxa);
-    char campo[l][c];
+    char campo[nl][nc];
     
-    for(l = 0; l < l ; l++){
-       //finalmente,deu certo random
-	    for(c = 0; c < c; c++){
-            
+    for(int l = 0; l < nl ; l++){
+	    for(int c = 0; c < nc; c++){
             if(rand() % 101 <= taxa){
                 campo[l][c] = TREE;
             }else{
@@ -95,9 +91,9 @@ int main(){
         }
     }
     
-	show(l, c, campo);
+	show(nl, nc, campo);
     
-	printf("Digas onde Começar a Diversão ?\n");
+	printf("Digas onde ComeÃ§ar a DiversÃ£o ?\n");
     
 	int i = 0;
 	printf("Digite a Linha : ");
@@ -107,10 +103,10 @@ int main(){
 	printf("Digite a Colunas : ");
     scanf("%d",&j);
 	
-	int total = queima(l, c, campo, i, j);
-    show(l, c, campo);
-    
-    printf("Quanto da floresta foi queimado ? %d\n", total/100);
+	float total = queima(nl, nc, campo, i, j);
+  total = total/100;
+    show(nl, nc, campo);
+    printf("Quanto da floresta foi queimado ? %0.2f", total);
     
     return 0;
 }
