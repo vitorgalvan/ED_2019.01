@@ -35,7 +35,7 @@ void mostrar(int vector[], int tam){
 int main(){
 	
     int tam = 0;
-    print("Digite o Numero de Knights");
+    printf("Digite o Numero de Knights : \n");
     scanf("%d", &tam);
     
 	int vect[tam];
@@ -44,10 +44,11 @@ int main(){
     }
     
 	int escolhido = 0; 
+    printf("The CHOSEN ONE : \n");
     scanf("%d", &escolhido);
-    escolhido - - 1;
+    escolhido --;
     int qtd = tam - 1;
-    printVector(vect, tam);
+    mostrar(vect, tam);
     
 	while(qtd--){
         
