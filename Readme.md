@@ -5,10 +5,9 @@
 - [Coloque seu repositorio](https://docs.google.com/spreadsheets/d/183SjgFljjI5CpR7VW_t6gIsB4iwprrwAL3hScYRgkI4/edit#gid=0)
 
 
-Inicie o repositório com usa foto legível. Ela vai aparecer na tela do mesmo tamanho que ela for originalmente, então se precisar diminua para menos que 400pixels.
-
 ![](photo.jpg)
 
+Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado alguns codigos com finalidade de estudo!
 
 ## 01 - Princesa e Princesa 2
 
