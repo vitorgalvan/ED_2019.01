@@ -24,10 +24,10 @@ int proximo_vivo(int v[], int tam, int escolhido, int dir){
 void printVetor(int v[], int tam, int escolhido){
    
     bool primeiro = true;
-    printf("[");
     int i;
+}
     
-void mostrar(int vector[], int tam){
+void mostrar(int vector[],int tam){
     
 	bool primeiro = true;
 	
@@ -64,8 +64,8 @@ int main(){
     scanf("%d", &fase);
     
     int v[tam];
-    int i;
-    for(i = 0; i < tam; i++){
+  
+      for(int i = 0; i < tam; i++){
         v[i] = (i + 1) * fase;
         fase = fase * (-1);
     }
@@ -78,10 +78,10 @@ int main(){
         int bater_botas = proximo_vivo(v, tam, escolhido, dir);
         v[bater_botas] = 0;
         escolhido = bater_botas;
-        for(i = 0; i < saltos; i++){
+        for(i = 0; i <= saltos; i++){
             escolhido = proximo_vivo(v, tam, escolhido, dir);
         }
-        mostrar(v, tam, escolhido);
+        mostrar(v, tam);
     }
     return 0;
 }
