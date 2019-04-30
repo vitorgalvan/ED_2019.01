@@ -28,19 +28,19 @@ void embaralhar(pos vet[],int tam){
 }
 
 void mostrar(int nl,int nc,char lab[nl][nc]){
-   for(int i = 0; i < nl; i++){
-        
-        for(int j = 0; j < nc; j++){
-            
+   
+   for(int i = 0; i < nl; i++){    
+        for(int j = 0; j < nc; j++){     
             if(lab[i][j] == parede){
                 printf("█");
             }
             else{
                 printf(" ");
-            }
+            }  
         }
-        puts("");
+        printf("\n");
     }
+    
 }
 
 bool compara(int nl, int nc, char lab[nl][nc], int l, int c,char valor){
@@ -73,15 +73,15 @@ int main(){
  printf("Digite o numero de Colunas : ");
  scanf("%d",&nc);
 
- char lab[nl][nc];
+ char maze[nl][nc];
 
  for(int i = 0;i < nl;i++){
      for(int j = 0;j < nc;j++){
-         lab[i][j] = parede;
+         maze[i][j] = parede;
      }
 
  }
-    mostrar(nl,nc,lab[nl][nc]);
+    mostrar(nl,nc,maze);
 
     return 0;
 }
