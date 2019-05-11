@@ -60,3 +60,16 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
    - usar angulos em recursividade!!!
 - Quanto tempo levou pra fazer a atividade
    - 3 horas e não consegui concluir tudo
+
+## 05 - Princesa com Lista
+
+- O que você fez
+     - Todo o codigo
+- Com quem e como você fez
+      - Consegui fazer apos ir a frente e fazer no computador do professor uma questão de lista similar
+- O que aprendeu e sabe fazer
+   - manusear as listas em cpp(Obs : Ainda estou aprendendo cpp)
+- O que tem dificuldade ainda
+   - em relação a essa questão eu apenas travo as vezes,pois a questão de node ainda é um pouco complicado
+- Quanto tempo levou pra fazer a atividade
+   - Cerca de 1 hora e 30 minutos 
