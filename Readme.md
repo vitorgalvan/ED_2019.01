@@ -52,14 +52,19 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
 
 - O que você fez
      - Apenas Arvore e Circulos
+     - Update dia 11/05 tentei fazer mais alguns e obtive sucesso!!!
 - Com quem e como você fez
       - Com auxilio da logica do professor e do video
+      - Tirei um Tempo para estudar uma pouco e mais e consegui fazer! 11/05
 - O que aprendeu e sabe fazer
    - usar angulos em recursividade
+   - usar angulos em recursividade com mais perfeição 11/05
 - O que tem dificuldade ainda
    - usar angulos em recursividade!!!
+   - Mais nenhuma no momento 11/05
 - Quanto tempo levou pra fazer a atividade
    - 3 horas e não consegui concluir tudo
+   - Sem contar o tempo de estudo cerca de 1 hora para fazer o resto 11/05
 
 ## 05 - Princesa com Lista
 
