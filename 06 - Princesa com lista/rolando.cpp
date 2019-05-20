@@ -91,7 +91,12 @@ Node * find_first_killer(Node * assassino, int pos){
 }
 
 int main(){
-    int Qtd_people = 0, killer = 0, dir = 0, saltos = 0, fase = 0;
+    int Qtd_people = 0;
+    int killer = 0; 
+    int dir = 0;
+    int saltos = 0;
+    int fase = 0;
+    
     cin >> Qtd_people >> killer >> fase;
     Node * lista = new Node();
     if(fase == 1)
