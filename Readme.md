@@ -33,7 +33,7 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
 - O que tem dificuldade ainda
     - nada
 - Quanto tempo levou pra fazer a atividade
- - Mais de 2 horas 
+    - Mais de 2 horas 
 
 ## 03 - Labirinto(Bugs 29/04)
 
@@ -78,3 +78,16 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
    - em relação a essa questão eu apenas travo as vezes,pois a questão de node ainda é um pouco complicado
 - Quanto tempo levou pra fazer a atividade
    - Cerca de 1 hora e 30 minutos 
+   
+## 06 - Ordenação
+
+- O que você fez
+     - Todo o codigo
+- Com quem e como você fez
+      - fiz sozinho
+- O que aprendeu e sabe fazer
+   - a usar recurção para ordenar 
+- O que tem dificuldade ainda
+   - somente um pouco de dificuldade em cpp
+- Quanto tempo levou pra fazer a atividade
+   - Cerca de 1 hora
