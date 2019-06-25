@@ -82,26 +82,26 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
 ## 06 - Ordenação
 
 - O que você fez
-     - Todo o codigo
+    - Todo o codigo
 - Com quem e como você fez
-      - fiz sozinho
+    - fiz sozinho
 - O que aprendeu e sabe fazer
-   - a usar recurção para ordenar 
+    - a usar recurção para ordenar 
 - O que tem dificuldade ainda
-   - somente um pouco de dificuldade em cpp
+    - somente um pouco de dificuldade em cpp
 - Quanto tempo levou pra fazer a atividade
-   - Cerca de 1 hora
+    - Cerca de 1 hora
    
    ## 07 - Banco
 
 - O que você fez
-     - Todo o codigo
+    - Todo o codigo
 - Com quem e como você fez
-      - Fiz sozinho
+    - Fiz sozinho
 - O que aprendeu e sabe fazer
-   - Aprendi a usar o interador melhor e a usar
+    - Aprendi a usar o interador melhor e a usar
 - O que tem dificuldade ainda
-   - Não entendo bem o interedor mas estou melhorando com o uso
+    - Não entendo bem o interedor mas estou melhorando com o uso
 - Quanto tempo levou pra fazer a atividade
-   - Cerca de 5 dias
+    - Cerca de 5 dias
    
