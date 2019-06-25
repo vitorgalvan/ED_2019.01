@@ -91,3 +91,17 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
    - somente um pouco de dificuldade em cpp
 - Quanto tempo levou pra fazer a atividade
    - Cerca de 1 hora
+   
+   ## 07 - Banco
+
+- O que você fez
+     - Todo o codigo
+- Com quem e como você fez
+      - Fiz sozinho
+- O que aprendeu e sabe fazer
+   - Aprendi a usar o interador melhor e a usar
+- O que tem dificuldade ainda
+   - Não entendo bem o interedor mas estou melhorando com o uso
+- Quanto tempo levou pra fazer a atividade
+   - Cerca de 5 dias
+   
