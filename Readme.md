@@ -104,4 +104,17 @@ Algumas alteraçoes foram feitas durante os dias 29 e 30 pois foi revisado algun
     - Não entendo bem o interedor mas estou melhorando com o uso
 - Quanto tempo levou pra fazer a atividade
     - Cerca de 5 dias
+    
+      ## 08 - HackerRank
+
+- O que você fez
+    - Fiz todos exceto o TopView
+- Com quem e como você fez
+    - Fiz com a ajuda do david do passado em videos
+- O que aprendeu e sabe fazer
+    - Aprendi a usar de forma mais eficiente o cpp e entendi melhor a forma de usa do '&' e do '*'
+- O que tem dificuldade ainda
+    - Não muita apenas sou lento no raciocinio
+- Quanto tempo levou pra fazer a atividade
+    - Cerca de 2 dias
    
